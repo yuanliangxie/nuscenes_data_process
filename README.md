@@ -1,6 +1,6 @@
 # A data processing mechanism for radar and camera fusion
 It's the official code for the paper `A Feature Pyramid Fusion Detection Algorithm Based on Radar and Camera Sensor`.
-The code is used to processing nuScenes dataset and generating the radar projection map with line render shape or circle render shape for 2D fusion detection.The dataloader has been implement by Pytorch dataloader module.So you can easyly to use the data processing module to your fusion-net.
+The code is used to processing nuScenes dataset and generating the radar projection map with line render shape or circle render shape for 2D fusion detection.The dataloader has been implement by Pytorch dataloader module.So you can easily to use the data processing module to your fusion-net.
 
 If this open source code can help your research, it is my honor!
 
