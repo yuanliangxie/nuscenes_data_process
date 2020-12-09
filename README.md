@@ -4,7 +4,7 @@ The code is used to processing nuScenes dataset and generating the radar project
 
 If this open source code can help your research, it is my honor!
 
-###How to start:
+### How to start:
 - first download the v1.0-mini dataset to have a try!
 - edit `./train/get_convert_sample_token.py` and change the 'dataroot' to  your v1.0-mini's root
  ```
